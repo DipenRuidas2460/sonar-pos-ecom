@@ -1,0 +1,15 @@
+{
+    "menuPrimary": {
+        "menu_1": [
+            {
+                "text": "Home",
+                "url": "/"
+            },
+            {
+                "text": "Shop",
+                "url": "/shop/shop-sidebar-without-banner"
+            }
+        ]
+    }
+    
+}
